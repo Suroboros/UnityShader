@@ -35,3 +35,18 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/RPG_FPS_game_assets_industrial
+Assets/Character
+Assets/Zombie
+ProjectSettings
+Packages
+Assets/Skybox
+.vscode/settings.json
+Assets/Character.meta
+Assets/RPG_FPS_game_assets_industrial.meta
+Assets/Scenes.meta
+Assets/Scenes
+Assets/Skybox.meta
+Assets/Zombie.meta
+Assets/Mesh.meta
+Assets/Mesh
